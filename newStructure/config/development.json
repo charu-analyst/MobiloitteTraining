@@ -8,7 +8,7 @@
   "jwtresetsecret": "nodejwt",
   "nodemailer": {
     "service": "gmail",
-    "email": "abhijeet.rai@indicchain.com",
+    "email": "charu.yadav@indicchain.com",
     "password": "dygclgzqcdiqqime"
   },
   "jwtOptions": {
