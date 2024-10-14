@@ -71,7 +71,7 @@ const admin = async () => {
         let obj = {
             firstName: "Ad",
             lastName: "Admin",
-            mobileNumber: 7985853064,
+            mobileNumber: 12345678667,
             email: "co-admin@gmail.com",
             countryCode: "+91", 
             userName: "ad3064",
