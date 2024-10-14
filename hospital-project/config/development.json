@@ -1,0 +1,25 @@
+{
+  "port": 9000,
+  "hostAddress": "172.16.6.52:3042/",
+  "databaseHost": "localhost",
+  "databasePort": "27017",
+  "databaseName": "hospital",
+  "jwtsecret": "nodejwt",
+  "jwtresetsecret": "nodejwt",
+  "nodemailer": {
+    "service": "gmail",
+    "email": "abhijeet.rai@indicchain.com",
+    "password": "dygclgzqcdiqqime"
+  },
+  "jwtOptions": {
+    "expiresIn": "48h"
+  },
+  "secretKey": "G1cjS3jtUXwkh1R1CeCk3Pf1CU30vakNmLRHwaCQokOULaLUHse4TZ7cCeKzLBbaA",
+  "swaggerDefinition": {
+    "info": {
+      "title": "new structure api hospital",
+      "version": "2.0",
+      "description": "hospital managment "
+    }
+  }
+}
